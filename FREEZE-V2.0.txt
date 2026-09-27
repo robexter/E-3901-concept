@@ -1,0 +1,26 @@
+FRACIONADORA CONCEPT — V2.0 ESTÁVEL / CONGELADA
+
+STATUS
+Aplicação de referência congelada para treinamento.
+
+NÃO ALTERAR SEM NOVA VALIDAÇÃO VISUAL
+- imagem principal / enquadramento;
+- aspect-ratio;
+- quantidade e coordenadas dos 23 hotspots;
+- geometria do painel flutuante;
+- arquitetura principal de navegação.
+
+PODE SER ATUALIZADO
+- conteúdo técnico;
+- questões;
+- cenários;
+- vídeos/PDFs;
+- notas de documentação;
+- intertravamentos somente com matriz oficial validada.
+
+REGRAS TÉCNICAS
+- Weeping/flooding permanecem condicionados ao tipo de interno confirmado.
+- Não há matriz de intertravamento cadastrada nesta versão.
+- Em operação real prevalecem documentos e procedimentos vigentes da U-39.
+
+Resultado da validação: 38/38 verificações aprovadas.
